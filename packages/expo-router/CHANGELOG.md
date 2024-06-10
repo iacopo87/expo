@@ -11,7 +11,7 @@
 ### 🐛 Bug fixes
 
 - Fix server hosting root html in a group with a layout. ([#29948](https://github.com/expo/expo/pull/29948) by [@EvanBacon](https://github.com/EvanBacon))
-- Fix Typed Routes clashing types and allow strict types for hooks.
+- Fix Typed Routes clashing types and allow strict types for hooks. ([#29612](https://github.com/expo/expo/pull/29612) by [@marklawlor](https://github.com/marklawlor))
 
 ### 💡 Others
 
